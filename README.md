@@ -160,14 +160,3 @@ Conversion specifiers to handle: d, i, u, o, x, X
 </li>
 </ul>
 <hr>
-<h3>Authors </h3
-
-
-* GEDEON OBAE GEKONGE <[Gedeonobae](https://github.com/Gedeonobae)>
-
-
-* Ruth Mensire <[Mensire](https://github.com/Mensire)>
-
-## Acknowledgements :pray:
-
-The _printf function emulates functionality of the C standard libr:ary function printf. This README borrows from the Linux man page printf(3).
