@@ -28,7 +28,7 @@ The function has the following conversion specifies:
  you can clone this repository  and use the function on your local machine.
 
 ```bash 
-git clone https://github.com/Amanuel0011/printf.git
+git clone https://github.com/natiabebaw/printf.git
 ```
 
 # Usage
@@ -55,11 +55,3 @@ int main(void)
 
 
 ```
-
-# Copyright
-Copyright (c) 2022 Amanuel0011 and NatnaelDemelash
-
-
-
-
-
